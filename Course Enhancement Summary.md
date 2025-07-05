@@ -6,11 +6,11 @@
 - **Notebook 1**: Personal data calculator and data type explorer challenges
 - **Notebook 2**: Temperature classifier and data quality checker challenges  
 - **Notebook 3**: Student grade analyzer with statistics and outlier detection
-- **Notebook 4.5**: Interactive pandas data exploration challenges
-- **Notebook 5**: Temperature converter and data cleaning function challenges
+- **Notebook 5**: Interactive pandas data exploration challenges
+- **Notebook 6**: Temperature converter and data cleaning function challenges
 
 ### 2. **Self-Assessment Checklists**
-- Added comprehensive checklists to notebooks 1, 2, 3, and 5
+- Added comprehensive checklists to notebooks 1, 2, 3, and 6
 - Each checklist includes:
   - Core skills verification
   - Data science connections
@@ -19,7 +19,7 @@
 
 ### 3. **Error Handling and Troubleshooting**
 - **Notebook 3**: Common list errors (IndexError, ValueError) with solutions
-- **Notebook 5**: Function errors and debugging techniques
+- **Notebook 6**: Function errors and debugging techniques
 - Real-world error scenarios with fix strategies
 - Input validation examples and safe coding practices
 
@@ -38,7 +38,7 @@
   - Debugging and validation strategies
 
 ### 6. **Capstone Project**
-- **Notebook 8**: Complete weather data analysis project featuring:
+- **Notebook 9**: Complete weather data analysis project featuring:
   - Real-world dataset with 5 cities and 12 months of data
   - Progressive tasks building from basic to advanced analysis
   - Data visualization dashboard creation
@@ -47,7 +47,7 @@
   - Bonus challenges for advanced learners
 
 ### 7. **Course Structure Enhancements**
-- **Notebook 4.5**: New pandas preview module
+- **Notebook 5**: New pandas preview module
 - Updated course documentation with new features
 - Clear progression from fundamentals to advanced concepts
 - Assessment and validation throughout

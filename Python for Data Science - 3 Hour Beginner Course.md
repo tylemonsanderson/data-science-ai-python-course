@@ -18,19 +18,19 @@ This comprehensive course is designed to prepare complete beginners for data sci
 - **Notebook 3: Lists and Data Structures** (25 minutes) - Lists, indexing, slicing, tuples
 - **Notebook 4: Dictionaries and Advanced Operations** (25 minutes) - Dictionaries, nested structures
 
-### Module 2.5: Pandas Preview (15 minutes)
-- **Notebook 4.5: Pandas Preview** (15 minutes) - Quick introduction to pandas basics
+### Module 3: Pandas Introduction (15 minutes)
+- **Notebook 5: Pandas Preview** (15 minutes) - Quick introduction to pandas basics
 
-### Module 3: Functions and Code Organization (35 minutes)
-- **Notebook 5: Functions and Modules** (20 minutes) - Function definition, parameters, modules
+### Module 4: Functions and Code Organization (35 minutes)
+- **Notebook 6: Functions and Modules** (20 minutes) - Function definition, parameters, modules
 - **Break** (15 minutes)
 
-### Module 4: Data Science Libraries (50 minutes)
-- **Notebook 6: NumPy Fundamentals** (25 minutes) - Arrays, operations, matrix math
-- **Notebook 7: Matplotlib Basics** (25 minutes) - Plotting, visualization, customization
+### Module 5: Data Science Libraries (50 minutes)
+- **Notebook 7: NumPy Fundamentals** (25 minutes) - Arrays, operations, matrix math
+- **Notebook 8: Matplotlib Basics** (25 minutes) - Plotting, visualization, customization
 
 ### Capstone Project: Weather Data Analysis (45-60 minutes)
-- **Notebook 8: Capstone Project** - Apply all learned skills to real-world data analysis
+- **Notebook 9: Capstone Project** - Apply all learned skills to real-world data analysis
 
 ## Learning Objectives
 
@@ -82,9 +82,11 @@ pip install numpy matplotlib jupyter
 2. `02_control_structures.ipynb` - Conditional statements, loops, error handling
 3. `03_lists_data_structures.ipynb` - Lists, indexing, slicing, tuples
 4. `04_dictionaries_advanced.ipynb` - Dictionaries, nested data structures
-5. `05_functions_modules.ipynb` - Functions, parameters, modules, imports
-6. `06_numpy_fundamentals.ipynb` - NumPy arrays, operations, linear algebra
-7. `07_matplotlib_basics.ipynb` - Plotting, visualization, customization
+5. `05_pandas_preview.ipynb` - Quick introduction to pandas basics
+6. `06_functions_modules.ipynb` - Functions, parameters, modules, imports
+7. `07_numpy_fundamentals.ipynb` - NumPy arrays, operations, linear algebra
+8. `08_matplotlib_basics.ipynb` - Plotting, visualization, customization
+9. `09_capstone_project.ipynb` - Comprehensive weather data analysis project
 
 ## Teaching Notes
 
