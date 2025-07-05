@@ -2,7 +2,7 @@
 
 ## Course Overview
 
-This comprehensive course is designed to prepare complete beginners for data science work in Python. The course consists of 7 Jupyter notebooks that progressively build the skills needed to understand and work with advanced data science notebooks.
+This comprehensive course is designed to prepare complete beginners for data science work in Python. The course consists of 9 Jupyter notebooks that progressively build the skills needed to understand and work with advanced data science notebooks.
 
 **Duration:** 3 hours (180 minutes)  
 **Prerequisites:** None - designed for complete beginners  
@@ -18,19 +18,19 @@ This comprehensive course is designed to prepare complete beginners for data sci
 - **Notebook 3: Lists and Data Structures** (25 minutes) - Lists, indexing, slicing, tuples
 - **Notebook 4: Dictionaries and Advanced Operations** (25 minutes) - Dictionaries, nested structures
 
-### Module 2.5: Pandas Preview (15 minutes)
-- **Notebook 4.5: Pandas Preview** (15 minutes) - Quick introduction to pandas basics
+### Module 3: Pandas Introduction (15 minutes)
+- **Notebook 5: Pandas Preview** (15 minutes) - Quick introduction to pandas basics
 
-### Module 3: Functions and Code Organization (35 minutes)
-- **Notebook 5: Functions and Modules** (20 minutes) - Function definition, parameters, modules
+### Module 4: Functions and Code Organization (35 minutes)
+- **Notebook 6: Functions and Modules** (20 minutes) - Function definition, parameters, modules
 - **Break** (15 minutes)
 
-### Module 4: Data Science Libraries (50 minutes)
-- **Notebook 6: NumPy Fundamentals** (25 minutes) - Arrays, operations, matrix math
-- **Notebook 7: Matplotlib Basics** (25 minutes) - Plotting, visualization, customization
+### Module 5: Data Science Libraries (50 minutes)
+- **Notebook 7: NumPy Fundamentals** (25 minutes) - Arrays, operations, matrix math
+- **Notebook 8: Matplotlib Basics** (25 minutes) - Plotting, visualization, customization
 
 ### Capstone Project: Weather Data Analysis (45-60 minutes)
-- **Notebook 8: Capstone Project** - Apply all learned skills to real-world data analysis
+- **Notebook 9: Capstone Project** - Apply all learned skills to real-world data analysis
 
 ## Learning Objectives
 
@@ -57,24 +57,74 @@ By the end of this course, students will be able to:
 
 ## Getting Started
 
-### Prerequisites
-- Jupyter Notebook or JupyterLab installed
-- Python 3.7+ with the following packages:
-  - numpy
-  - matplotlib
+### Quick Setup (Recommended)
 
-### Installation
-If you don't have the required packages, install them using:
+The easiest way to get started is using the provided setup script:
+
 ```bash
-pip install numpy matplotlib jupyter
+# Clone or download this repository
+cd Data-Science-AI-Python-Course
+
+# Run the setup script (macOS/Linux)
+./setup.sh
+
+# Or manually run the commands:
+# python3 -m venv venv
+# source venv/bin/activate
+# pip install -r requirements.txt
+```
+
+This will:
+- Create a virtual environment (`venv/`)
+- Install all required packages
+- Set up a Jupyter kernel specifically for this course
+
+### Manual Setup
+
+If you prefer to set up manually:
+
+#### Prerequisites
+- Python 3.7+ installed on your system
+- pip package manager
+
+#### Installation
+1. Create a virtual environment:
+```bash
+python3 -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+2. Install required packages:
+```bash
+pip install -r requirements.txt
+```
+
+3. Install Jupyter kernel:
+```bash
+python -m ipykernel install --user --name=data-science-course --display-name="Python (Data Science Course)"
 ```
 
 ### Running the Course
-1. Download all notebook files to a single directory
-2. Open Jupyter Notebook in that directory: `jupyter notebook`
-3. Start with `01_python_basics.ipynb` and work through in order
-4. Execute each cell by pressing Shift+Enter
-5. Complete the practice exercises in each notebook
+1. Activate your virtual environment:
+```bash
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+2. Start Jupyter Notebook:
+```bash
+jupyter notebook
+```
+
+3. In Jupyter, make sure to select the "Python (Data Science Course)" kernel
+4. Start with `01_python_basics.ipynb` and work through in order
+5. Execute each cell by pressing Shift+Enter
+6. Complete the practice exercises in each notebook
+
+### Deactivating the Environment
+When you're done working, deactivate the virtual environment:
+```bash
+deactivate
+```
 
 ## Course Files
 
@@ -82,9 +132,11 @@ pip install numpy matplotlib jupyter
 2. `02_control_structures.ipynb` - Conditional statements, loops, error handling
 3. `03_lists_data_structures.ipynb` - Lists, indexing, slicing, tuples
 4. `04_dictionaries_advanced.ipynb` - Dictionaries, nested data structures
-5. `05_functions_modules.ipynb` - Functions, parameters, modules, imports
-6. `06_numpy_fundamentals.ipynb` - NumPy arrays, operations, linear algebra
-7. `07_matplotlib_basics.ipynb` - Plotting, visualization, customization
+5. `05_pandas_preview.ipynb` - Quick introduction to pandas basics
+6. `06_functions_modules.ipynb` - Functions, parameters, modules, imports
+7. `07_numpy_fundamentals.ipynb` - NumPy arrays, operations, linear algebra
+8. `08_matplotlib_basics.ipynb` - Plotting, visualization, customization
+9. `09_capstone_project.ipynb` - Comprehensive weather data analysis project
 
 ## Teaching Notes
 
