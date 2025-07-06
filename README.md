@@ -1,4 +1,4 @@
-# Python for Data Science - 3 Hour Beginner Course
+# Learn Python: A Course Designed Specifically for Data Science and AI
 
 *From "What's Python?" to analyzing real datasets in just 3 hours*
 
