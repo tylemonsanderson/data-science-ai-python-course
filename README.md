@@ -10,42 +10,15 @@ This comprehensive course bridges the gap between complete programming beginners
 **Prerequisites:** None - designed for complete beginners  
 **Goal:** Master the foundational Python skills needed to understand and execute advanced data science notebooks
 
-## 🆕 What's New in the Updated Course?
-
-### **📚 More Real-World Projects & Practical Exercises**
-- Investment portfolio analysis with real financial calculations
-- Temperature data analysis and classification systems
-- Weather data capstone project with 5 cities and 12 months of data
-- Data quality checking scenarios that mirror professional workflows
-
-### **🎯 Extra Mini-Challenges and Self-Assessments**
-- **Mini-Challenges** at the end of each notebook with hands-on data science scenarios
-- **Self-Assessment Checklists** to verify understanding before progressing
-- Progressive difficulty building from personal calculators to statistical analysis
-- Real-world problem-solving exercises that prepare you for actual data science work
-
-### **🛠️ Improved Setup, Error-Handling Tips, and Step-by-Step Instructions**
-- Automated setup script (`setup.sh`) for instant environment configuration
-- Comprehensive troubleshooting guide for common issues
-- **Error Handling sections** showing what breaks and how to fix it
-- Clear debugging strategies and validation techniques
-
-### **🌦️ Enhanced Capstone Project with Weather Data Analysis**
-- Comprehensive weather data analysis across multiple cities
-- Data visualization dashboard creation
-- Statistical analysis and correlation studies  
-- Professional reporting and insight generation
-- Bonus challenges for advanced learners
-
 ### What Makes This Course Different?
 
-**🎯 Laser-Focused on Data Science**
+**🎯 Focused on Data Science**
 - Every concept connects directly to real data science workflows
 - Learn list slicing (`X[0:3]`) used in virtually every ML notebook
 - Master NumPy operations that power machine learning algorithms
 - Practice string formatting for data analysis reports
 
-**📊 Real-World Context from Day One**
+**📊 Real-World Context **
 - Calculate financial interest instead of printing "Hello, World!"
 - Analyze test scores and weather data
 - Work with realistic datasets and scenarios
