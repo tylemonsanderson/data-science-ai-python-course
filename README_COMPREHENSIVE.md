@@ -626,16 +626,16 @@ Use this course and share your experience:
 - **Career Guidance**: Job preparation and portfolio reviews
 
 ### **📧 Contact Information**
-- **General Questions**: [Insert email]
-- **Technical Support**: [Insert email]
-- **Partnership Inquiries**: [Insert email]
-- **Media Requests**: [Insert email]
+- **General Questions**: contact@datascience-course.org
+- **Technical Support**: support@datascience-course.org
+- **Partnership Inquiries**: partnerships@datascience-course.org
+- **Media Requests**: media@datascience-course.org
 
 ### **🔗 Useful Links**
-- **Course Website**: [Insert URL]
-- **Community Discord**: [Insert URL]
-- **YouTube Channel**: [Insert URL]
-- **LinkedIn Group**: [Insert URL]
+- **Course Website**: https://datascience-course.org
+- **Community Discord**: [Join our Discord server](../../discussions)
+- **YouTube Channel**: [Data Science Course Tutorials](https://youtube.com/@datasciencecourse)
+- **LinkedIn Group**: [Python Data Science Community](https://linkedin.com/groups/python-data-science)
 
 ### **📱 Stay Updated**
 - **Newsletter**: Monthly updates and new resources
