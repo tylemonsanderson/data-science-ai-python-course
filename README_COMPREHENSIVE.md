@@ -309,7 +309,7 @@
 #### **Option 1: Automated Setup (Recommended)**
 ```bash
 # Clone the repository
-git clone https://github.com/StudienstiftungAISummerSchools/Data-Science-AI-Python-Course.git
+git clone https://github.com/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course.git
 cd Data-Science-AI-Python-Course
 
 # Run the magic setup script (macOS/Linux)
@@ -323,7 +323,7 @@ jupyter notebook
 #### **Option 2: Manual Setup**
 ```bash
 # Clone the repository
-git clone https://github.com/StudienstiftungAISummerSchools/Data-Science-AI-Python-Course.git
+git clone https://github.com/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course.git
 cd Data-Science-AI-Python-Course
 
 # Create virtual environment
@@ -690,4 +690,4 @@ Special thanks to our amazing contributors:
 
 *Ready to transform your career with data science? Your journey starts here!* 🚀
 
-**[⭐ Star this repo](https://github.com/StudienstiftungAISummerSchools/Data-Science-AI-Python-Course/stargazers) | [🍴 Fork for your learning](https://github.com/StudienstiftungAISummerSchools/Data-Science-AI-Python-Course/fork) | [💬 Join our community](https://github.com/StudienstiftungAISummerSchools/Data-Science-AI-Python-Course/discussions)**
+**[⭐ Star this repo](https://github.com/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course/stargazers) | [🍴 Fork for your learning](https://github.com/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course/fork) | [💬 Join our community](https://github.com/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course/discussions)**
