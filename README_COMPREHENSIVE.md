@@ -649,14 +649,14 @@ Use this course and share your experience:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ### **🎓 Academic Use**
-- Free for educational institutions
+- Free for educational institutions and personal learning
 - Attribution required for derivatives
 - Commercial training requires permission
 
 ### **💼 Commercial Use**
+- Free for individual and educational use
 - Contact us for enterprise licensing
-- Custom versions available
-- White-label options for training companies
+- Custom versions available for organizations
 
 ---
 
