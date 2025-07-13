@@ -1,0 +1,43 @@
+# Development Dependencies for Python Data Science Course
+
+# Testing and Quality Assurance
+pytest>=7.0.0
+pytest-notebook>=0.8.0
+nbmake>=1.3.0
+
+# Code Formatting and Linting
+black>=22.0.0
+flake8>=4.0.0
+isort>=5.10.0
+mypy>=0.950
+
+# Documentation
+sphinx>=4.5.0
+sphinx-rtd-theme>=1.0.0
+myst-parser>=0.17.0
+
+# Notebook Development
+nbformat>=5.4.0
+nbconvert>=6.5.0
+jupyterlab>=3.4.0
+jupyter-book>=0.13.0
+
+# Environment Management
+pip-tools>=6.6.0
+python-dotenv>=0.20.0
+
+# Pre-commit Hooks
+pre-commit>=2.19.0
+
+# Security Scanning
+bandit>=1.7.0
+safety>=2.0.0
+
+# Performance Profiling
+memory-profiler>=0.60.0
+line-profiler>=3.5.0
+
+# Additional Development Tools
+ipdb>=0.13.0
+tqdm>=4.64.0
+rich>=12.0.0
