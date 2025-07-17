@@ -35,7 +35,6 @@ This comprehensive course bridges the gap between complete programming beginners
 - Each notebook builds on the previous one
 - Concepts are introduced when you need them
 - No overwhelming theory dumps
-- Solid foundation that won't crumble with advanced topics
 
 ## Course Structure
 
@@ -78,7 +77,6 @@ By the end of this course, students will be able to:
 ### **Real-World Application**
 7. **Read and understand** advanced data science notebooks and ML code
 8. **Apply Python skills** to solve realistic data science problems
-9. **Think like a data scientist** with proper problem-solving approaches
 
 ## Getting Started
 
@@ -92,30 +90,11 @@ By the end of this course, students will be able to:
 ### **Time Investment**
 - **Core Learning**: 3 hours of focused study
 - **Practice & Mastery**: Additional 2-3 hours working through exercises
-- **Total Value**: A solid foundation for years of data science growth
 
 ### **What You'll Need**
 - A computer with internet access
 - The desire to learn and experiment
 - Patience with yourself (every expert was once a beginner)
-
-## Hardware Requirements
-
-| Component | Minimum | Recommended | Optimal |
-|-----------|---------|-------------|---------|
-| **RAM** | 4 GB | 8 GB | 16 GB+ |
-| **Storage** | 2 GB free | 5 GB free | 10 GB+ free |
-| **CPU** | Dual-core 2.0GHz | Quad-core 2.5GHz | 8+ cores 3.0GHz+ |
-| **Python** | 3.7+ | 3.9+ | 3.11+ |
-| **Internet** | Basic broadband | Reliable connection | High-speed |
-
-### Performance Expectations
-
-| System Type | Notebook Load Time | Large Dataset Processing | Visualization Rendering |
-|-------------|-------------------|-------------------------|------------------------|
-| **Minimum** | 5-10 seconds | 10-30 seconds | 3-5 seconds |
-| **Recommended** | 2-5 seconds | 3-10 seconds | 1-2 seconds |
-| **Optimal** | <2 seconds | <3 seconds | <1 second |
 
 ### Quick Setup (Recommended)
 
@@ -287,18 +266,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-**Permission errors (macOS/Linux):**
-```bash
-chmod +x setup.sh
-./setup.sh
-```
-
-**Slow performance:**
-- Close unnecessary browser tabs
-- Restart Jupyter notebook
-- Check available RAM: Activity Monitor (Mac) or Task Manager (Windows)
-- Consider upgrading hardware if below minimum requirements
-
 ### Command Reference
 
 | Task | Command | Description |
@@ -312,30 +279,10 @@ chmod +x setup.sh
 | **List Packages** | `pip list` | Show installed packages |
 | **Deactivate** | `deactivate` | Exit virtual environment |
 
-### Advanced Troubleshooting
-
-**Kernel not found:**
-```bash
-python -m ipykernel install --user --name=data-science-course
-```
-
-**Package conflicts:**
-```bash
-pip install --upgrade pip
-pip install -r requirements.txt --force-reinstall
-```
-
-**Jupyter extensions not working:**
-```bash
-jupyter contrib nbextension install --user
-jupyter nbextension enable --py widgetsnbextension
-```
-
 ## Support and Resources
 
 ### Getting Help
 - 🐛 **Found a bug?** Open an issue on GitHub
-- ❓ **Have questions?** Check the [Discussions](../../discussions) section
 - 💡 **Want to contribute?** See [CONTRIBUTING.md](CONTRIBUTING.md)
 - 📧 **Need direct support?** Contact course maintainers
 
@@ -351,13 +298,6 @@ jupyter nbextension enable --py widgetsnbextension
 - 🎓 [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/) - Classic datasets
 - 📈 [Seaborn Built-in Datasets](https://seaborn.pydata.org/generated/seaborn.load_dataset.html) - Ready-to-use data
 - 🌍 [World Bank Open Data](https://data.worldbank.org/) - Global statistics
-- 🏛️ [Government Data Portals](https://www.data.gov/) - Public datasets
-
-### Advanced Courses & Specializations:
-- 🤖 **Machine Learning**: Andrew Ng's ML Course (Coursera)
-- 🧮 **Deep Learning**: fast.ai Practical Deep Learning
-- 📊 **Data Analysis**: Python for Data Science (edX)
-- 🔬 **Statistics**: Statistical Learning (Stanford Online)
 
 ### Development Tools:
 - **IDEs**: VS Code, PyCharm, Spyder
@@ -365,53 +305,21 @@ jupyter nbextension enable --py widgetsnbextension
 - **Version Control**: Git and GitHub basics
 - **Environment Management**: Conda, pipenv, Docker
 
-### Community:
-- 🐍 **Python Community**: r/Python, Python Discord
-- 📊 **Data Science**: r/datascience, Kaggle Community
-- 🧠 **Machine Learning**: r/MachineLearning, ML Twitter
-- 💬 **Stack Overflow**: python, pandas, matplotlib tags
-
 ### **Take the Next Step**
 
 ⭐ **Star this repo** if you find it helpful  
 🍴 **Fork it** to customize for your own learning  
-💬 **Share your progress** with the community  
 📝 **Contribute** improvements and suggestions
 
 ---
-
-## 📊 Repository Stats
-
-![Repository Size](https://img.shields.io/github/repo-size/username/Data-Science-AI-Python-Course)
-![Last Commit](https://img.shields.io/github/last-commit/username/Data-Science-AI-Python-Course)
-![Contributors](https://img.shields.io/github/contributors/username/Data-Science-AI-Python-Course)
-![Issues](https://img.shields.io/github/issues/username/Data-Science-AI-Python-Course)
 
 ## 🤝 Contributing
 
 We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-### Contributors ✨
-
-Thanks to everyone who has contributed to making this course better!
-
-<!-- Add contributor images here when available -->
-
-## 📋 Changelog
-
-See [CHANGELOG.md](CHANGELOG.md) for detailed version history and updates.
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🌟 Acknowledgments
-
-- Inspired by the data science community's need for practical Python education
-- Built with feedback from beginners and experienced practitioners
-- Designed to bridge the gap between theory and real-world application
 
 ---
 
