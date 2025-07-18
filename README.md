@@ -17,6 +17,11 @@ This comprehensive course bridges the gap between complete programming beginners
 **Prerequisites:** None - designed for complete beginners  
 **Goal:** Master the foundational Python skills needed to understand and execute advanced data science notebooks
 
+## 📚 Related Reading
+
+[**Learn Python: A Course Designed Specifically for Data Science and AI**](https://medium.com/@christoph.j.weisser28/learn-python-a-course-designed-specifically-for-data-science-and-ai-f5a3ed1de719)  
+*A short Medium article on this course.*
+
 ### What Makes This Course Different?
 
 **🎯 Focused on Data Science**
