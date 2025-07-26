@@ -30,7 +30,7 @@
 #### **Capstone Project**
 - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course/blob/main/09_capstone_project.ipynb) **Notebook 9: Weather Data Analysis** (45-60 min)
 
-> **💡 Pro Tip:** Google Colab provides a free Python environment with all data science libraries pre-installed!
+> **💡 Pro Tip:** Google Colab provides a free Python environment with many data science libraries pre-installed!
 
 ---
 
