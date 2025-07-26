@@ -101,9 +101,40 @@ By the end of this course, students will be able to:
 - The desire to learn and experiment
 - Patience with yourself (every expert was once a beginner)
 
-### Quick Setup (Recommended)
+### 🚀 Option 1: Run in Google Colab (No Setup Required!)
 
-The easiest way to get started is using the provided setup script:
+**The fastest way to get started!** Click any notebook below to open it directly in Google Colab:
+
+[![Open All in Colab](https://img.shields.io/badge/Open%20All%20in-Google%20Colab-blue?logo=google-colab)](https://colab.research.google.com/)
+
+#### **Module 1: Python Fundamentals**
+- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course/blob/main/01_python_basics.ipynb) **Notebook 1: Python Basics**
+- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course/blob/main/02_control_structures.ipynb) **Notebook 2: Control Structures**
+
+#### **Module 2: Data Structures and Operations**
+- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course/blob/main/03_lists_data_structures.ipynb) **Notebook 3: Lists and Data Structures**
+- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course/blob/main/04_dictionaries_advanced.ipynb) **Notebook 4: Dictionaries and Advanced Operations**
+
+#### **Module 3: Pandas Introduction**
+- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course/blob/main/05_pandas_preview.ipynb) **Notebook 5: Pandas Preview**
+
+#### **Module 4: Functions and Code Organization**
+- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course/blob/main/06_functions_modules.ipynb) **Notebook 6: Functions and Modules**
+
+#### **Module 5: Data Science Libraries**
+- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course/blob/main/07_numpy_fundamentals.ipynb) **Notebook 7: NumPy Fundamentals**
+- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course/blob/main/08_matplotlib_basics.ipynb) **Notebook 8: Matplotlib Basics**
+
+#### **Capstone Project**
+- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course/blob/main/09_capstone_project.ipynb) **Notebook 9: Weather Data Analysis Project**
+
+> **💡 Pro Tip:** Google Colab provides a free Python environment with all major data science libraries pre-installed. No setup required!
+
+---
+
+### 🛠️ Option 2: Local Setup (Recommended for Advanced Users)
+
+The easiest way to get started locally is using the provided setup script:
 
 ```bash
 # Clone or download this repository
