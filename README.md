@@ -27,8 +27,11 @@
 - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course/blob/main/07_numpy_fundamentals.ipynb) **Notebook 7: NumPy Fundamentals** (25 min)
 - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course/blob/main/08_matplotlib_basics.ipynb) **Notebook 8: Matplotlib Basics** (25 min)
 
+#### **Module 4: Machine Learning**
+- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course/blob/main/09_scikit_learn_basics.ipynb) **Notebook 9: Scikit-Learn Basics** (45 min)
+
 #### **Capstone Project**
-- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course/blob/main/09_capstone_project.ipynb) **Notebook 9: Weather Data Analysis** (45-60 min)
+- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course/blob/main/10_capstone_project.ipynb) **Notebook 10: Weather Data Analysis** (45-60 min)
 
 > **💡 Pro Tip:** Google Colab provides a free Python environment with many data science libraries pre-installed!
 
@@ -38,7 +41,7 @@
 
 This comprehensive course bridges the gap between complete programming beginners and functional data science practitioners. Unlike typical Python courses that teach theoretical concepts, every lesson directly prepares you for real data science work.
 
-**Duration:** 3 hours | **Prerequisites:** None | **Goal:** Master Python fundamentals for data science
+**Duration:** 4+ hours | **Prerequisites:** None | **Goal:** Master Python fundamentals and build your first ML models
 
 ### What Makes This Course Different?
 
@@ -53,6 +56,7 @@ This comprehensive course bridges the gap between complete programming beginners
 Master these essential data science skills:
 - **Core Python**: Variables, data structures, control flow, functions
 - **Data Science Libraries**: NumPy arrays, Matplotlib visualization, Pandas basics  
+- **Machine Learning**: Build classification and regression models with scikit-learn
 - **Real Application**: Read ML notebooks, debug code, solve data problems
 
 ## Getting Started
@@ -91,17 +95,18 @@ Start with `01_python_basics.ipynb` and work through in order.
 ├── 📓 07_numpy_fundamentals.ipynb     # Numerical computing, ML foundations
 ├── 📓 08_matplotlib_basics.ipynb     # Professional data visualization
 ├── 📓 09_capstone_project.ipynb      # Comprehensive weather analysis
-├── 📄 requirements.txt               # Python package dependencies
+├── � 10_scikit_learn_basics.ipynb   # Machine learning with scikit-learn
+├── �📄 requirements.txt               # Python package dependencies
 └── 🛠️ setup.sh                       # Automated environment setup
 ```
 
 ## What's Next?
 
 After completing this course, you'll be ready to:
-- Understand advanced ML notebooks and algorithms  
-- Work with pandas for data manipulation
-- Use scikit-learn for machine learning
-- Build your own data science projects
+- Build advanced ML models and tune hyperparameters
+- Work with deep learning frameworks (TensorFlow, PyTorch)
+- Handle real-world data challenges and preprocessing
+- Deploy models to production environments
 
 ## Quick Troubleshooting
 
